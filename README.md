@@ -1,1 +1,1 @@
-I get asked about what it is like to be a software developer and what software developers do in their jobs. This repo is a collection of my answers to my most frequently asked questions for this topic.
+I get asked fairly often bout what it is like to be a software developer and what software developers do in their jobs. This repo is a collection of my answers to my most frequently asked questions for this topic.
